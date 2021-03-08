@@ -11,11 +11,13 @@ The two deliverables are an analysis of June and December temperature data. The 
 - The data shows reasonable temperature both in winter and in summary, supporting a viable business in the coldest and hottest temperature.
 
 - Below are the June Summary Data:
-![](Summary_June.PNG)
+
+- ![](Summary_June.PNG)
 
 
 - Below are the December Summary Data:
-![](Summary_December.PNG)
+
+- ![](Summary_December.PNG)
 
 ## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
 
