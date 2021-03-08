@@ -8,17 +8,17 @@ The following analysis is for a surf and ice cream shop. The purpose is to analy
 
 The two deliverables are an analysis of June and December temperature data. The following are three major points from this analysis.
 
-- The data shows reasonable temperature both in winter and in summary, supporting a viable business in the coldest and hottest temperature.
+- The data shows relatively similar temperature both in winter and in summer, supporting a viable business in the coldest and hottest temperature.
 
 - Below are the June Summary Data:
 
-- ![](Summary_June.PNG)
+ ![](Summary_June.PNG)
 
 
 - Below are the December Summary Data:
 
-- ![](Summary_December.PNG)
+ ![](Summary_December.PNG)
 
 ## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
 
-Overall, the data show similar 
+Overall, the data support a sustainable business year-round. While this data supports the business venture, additional exploration of the data through other queries - like monthly precipitation and wind patterns - could be helpful in supporting (or giving pause) to this venture.
