@@ -19,6 +19,6 @@ The two deliverables are an analysis of June and December temperature data. The 
 
  ![](Summary_December.PNG)
 
-## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+## Summary:
 
 Overall, the data support a sustainable business year-round. While this data supports the business venture, additional exploration of the data through other queries - like monthly precipitation and wind patterns - could be helpful in supporting (or giving pause) to this venture.
